@@ -4,22 +4,17 @@
  A passionate FullStack Developer from India
 </h4>
 
+<p align="left">
+
+<img  src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?t=st=1723113273~exp=1723116873~hmac=8767a6d464d0de8682f0ed92e877f1421c8eaf334fa094b2c45b5e8009c38375&w=1060" align="right" width="300" />
+- 🔭 I’m currently working on Spotify_Clone 
 -🌱 I’m currently learning DevOps
-<div float="left">
-<img  src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?t=st=1723113273~exp=1723116873~hmac=8767a6d464d0de8682f0ed92e877f1421c8eaf334fa094b2c45b5e8009c38375&w=1060" width="300" />
- 
-</div>
-
 - 💬 Ask me about MERN
-
 - 📫 How to reach me jaykishan5691@gmail.com
-
 - ⚡ Fun fact I am Funny
 
 
-
-
-<h1>Connect with Me</h1>
+##Connect with me:
 
 <p>
 
@@ -29,7 +24,7 @@
 
 </p>
 
-<h1 align="center">Languages and Tools:</h1>
+<h4 align="center">Languages and Tools:</h4>
 
 <p align="center">
   <!-- HTML -->
