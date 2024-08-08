@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jay Kishan</h1>
 
-<h4 align="center">
-# A passionate FullStack Developer from India
-</h4>
+<h3 align="center">
+A passionate FullStack Developer from India
+</h3>
 
 
+<br/>
 
 <p align="left">
 
