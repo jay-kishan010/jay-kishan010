@@ -4,13 +4,13 @@
  A passionate FullStack Developer from India
 </h4>
 
-🌱 I’m currently learning DevOps
+#####🌱 I’m currently learning DevOps
 
-💬 Ask me about MERN
+#####💬 Ask me about MERN
 
-📫 How to reach me jaykishan5691@gmail.com
+#####📫 How to reach me jaykishan5691@gmail.com
 
-⚡ Fun fact I am Funny
+#####⚡ Fun fact I am Funny
 <p align="center">
 ![image](https://github.com/user-attachments/assets/500728d7-a761-46d3-a0d2-4fbdf8cbba04)
 
