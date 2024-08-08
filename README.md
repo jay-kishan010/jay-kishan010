@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Kishan</h1>
 
 <h4 align="center">
- A passionate FullStack Developer from India
+# A passionate FullStack Developer from India
 </h4>
 
 
@@ -31,7 +31,7 @@
 
 </p>
 
-<h4 align="center">Languages and Tools:</h4>
+## Languages and Tools:
 
 <p align="center">
   <!-- HTML -->
