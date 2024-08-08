@@ -24,6 +24,7 @@ A passionate FullStack Developer from India
 
 
 <br/>
+
 ## Connect with me:
 
 <p>
@@ -35,6 +36,7 @@ A passionate FullStack Developer from India
 </p>
 
 <br/>
+
 ## Languages and Tools:
 
 <p align="center">
