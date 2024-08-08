@@ -16,9 +16,9 @@
 </p>
 
 
-<h1 align="center">Connect with Me</h1>
+<h1>Connect with Me</h1>
 
-<p align="center">
+<p>
   <a href="https://twitter.com/yourprofile" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40">
   </a>
@@ -28,4 +28,11 @@
   <a href="https://github.com/yourprofile" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40">
   </a>
+</p>
+
+
+<h1>Languages and Tools</h1>
+
+<p>
+ <img src="https://www.flaticon.com/free-icon/html-5_5968267?term=html&page=1&position=3&origin=search&related_id=5968267" alt="html" width="30" height="30">
 </p>
