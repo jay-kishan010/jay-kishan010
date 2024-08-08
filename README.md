@@ -12,7 +12,8 @@
 
 ⚡ Fun fact I am Funny
 <p align="center">
- ![alt text](file:///C:/Users/lenovo%20pc/Downloads/laptop.jpg)
+![image](https://github.com/user-attachments/assets/500728d7-a761-46d3-a0d2-4fbdf8cbba04)
+
  
 </p>
 
