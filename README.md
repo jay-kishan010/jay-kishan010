@@ -12,7 +12,7 @@
 
 #### . ⚡ Fun fact I am Funny
 <p align="center">
-![image](https://github.com/user-attachments/assets/500728d7-a761-46d3-a0d2-4fbdf8cbba04)
+![image]([https://github.com/user-attachments/assets/500728d7-a761-46d3-a0d2-4fbdf8cbba04](https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?t=st=1723113273~exp=1723116873~hmac=8767a6d464d0de8682f0ed92e877f1421c8eaf334fa094b2c45b5e8009c38375&w=1060))
 
  
 </p>
