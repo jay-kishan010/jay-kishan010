@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @jay-kishan010
+<p align="center">
+</p> 👋 Hi, I’m @jay-kishan010
+// Your content
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on MERN Stack project
