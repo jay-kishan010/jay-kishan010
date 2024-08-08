@@ -85,5 +85,5 @@ A passionate FullStack Developer from India
 </p>
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jay-kishan010)
 
