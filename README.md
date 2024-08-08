@@ -8,7 +8,7 @@ A passionate FullStack Developer from India
 
 <br/>
 <p align="left">
-<span style="background-color:grey">Follow @jay-kishan010</span>
+! <span style="background-color:grey">Follow @jay-kishan010</span>
 <img  src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?t=st=1723113273~exp=1723116873~hmac=8767a6d464d0de8682f0ed92e877f1421c8eaf334fa094b2c45b5e8009c38375&w=1060" align="right" width="300" />
 
 - 🔭 I’m currently working on Spotify_Clone using MERN
