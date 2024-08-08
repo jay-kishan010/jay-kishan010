@@ -12,7 +12,7 @@
 
 ⚡ Fun fact I am Funny
 <p align="center">
- ![alt text](C:\Users\lenovo pc\Downloads\laptop.jpg)
+ ![alt text](file:///C:/Users/lenovo%20pc/Downloads/laptop.jpg)
  
 </p>
 
